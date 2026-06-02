@@ -13,6 +13,11 @@ Este GUI fue creado tomando como referencia la guía original compartida por Azz
 **How to host a CnCNet Server**  
 https://forums.cncnet.org/topic/6325-how-to-host-a-cncnet-server/
 
+![Captura 1](https://github.com/Azzlaer/PanelGUI_CNCNet_PRO/blob/main/images/1.png?raw=true)
+![Captura 0](https://github.com/Azzlaer/PanelGUI_CNCNet_PRO/blob/main/images/2.png?raw=true)
+![Captura 2](https://github.com/Azzlaer/PanelGUI_CNCNet_PRO/blob/main/images/3.png?raw=true)
+![Captura 2](https://github.com/Azzlaer/PanelGUI_CNCNet_PRO/blob/main/images/4.png?raw=true)
+
 Argumentos usados por `cncnet-server.exe`:
 
 ```txt
@@ -149,7 +154,7 @@ Este archivo pedirá permisos UAC de Windows y abrirá el panel con privilegios 
 
 ---
 
-## 🖥️ Interfaz con pestañas
+## 🖥�?Interfaz con pestañas
 
 El proyecto está dividido en pestañas para evitar que el formulario sea demasiado grande.
 
@@ -246,7 +251,7 @@ Funciones:
 
 ---
 
-# 🖥️ CONSOLA
+# 🖥�?CONSOLA
 
 La pestaña **CONSOLA** muestra:
 
@@ -316,7 +321,7 @@ Si quieres que el servidor sea público, debes revisar:
 
 ---
 
-## 🛡️ Solución al error: `HttpListenerException: Access is denied`
+## 🛡�?Solución al error: `HttpListenerException: Access is denied`
 
 Si al iniciar el servidor ves este error:
 
@@ -503,8 +508,7 @@ Ejemplo:
 
 ```txt
 CnCNetServerPanel/
-│
-├── cncnet_server_gui_final_tray.py
+�?├── cncnet_server_gui_final_tray.py
 ├── ejecutar_cncnet_gui_admin.bat
 ├── cncnet_server_gui.ini
 ├── cncnet-server.exe
@@ -513,7 +517,7 @@ CnCNetServerPanel/
 
 ---
 
-## 🧑‍💻 Compilar a EXE opcional
+## 🧑‍�?Compilar a EXE opcional
 
 Puedes convertir el panel Python en `.exe` usando PyInstaller.
 
@@ -602,7 +606,7 @@ ejecutar_cncnet_gui_admin.bat
 
 ---
 
-## ✅ Recomendaciones finales
+## �?Recomendaciones finales
 
 - Ejecuta el panel como administrador si usarás URLACL o cierre de procesos.
 - Guarda configuración después de cambiar opciones.
@@ -613,7 +617,7 @@ ejecutar_cncnet_gui_admin.bat
 
 ---
 
-## 🏷️ Créditos
+## 🏷�?Créditos
 
 Proyecto creado por:
 
